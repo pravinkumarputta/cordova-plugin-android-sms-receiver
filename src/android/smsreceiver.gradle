@@ -1,0 +1,7 @@
+repositories {
+    maven { url 'https://www.jitpack.io' }
+}
+
+dependencies {
+    compile 'com.github.pravinkumarputta:smsreceiver:1.0.0'
+}

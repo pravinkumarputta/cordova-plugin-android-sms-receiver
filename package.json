@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-android-sms-receiver",
+  "version": "0.0.1",
+  "description": "This is cordova plugin for Speech Recognition and Text to Speech.",
+  "cordova": {
+    "id": "cordova-plugin-android-sms-receiver",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravinkumarputta/cordova-plugin-android-sms-receiver.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "sms",
+    "receiver",
+    "retriever",
+    "otp",
+    "detection"
+  ],
+  "author": "Pravinkumar Putta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pravinkumarputta/cordova-plugin-android-sms-receiver/issues"
+  },
+  "homepage": "https://github.com/pravinkumarputta/cordova-plugin-android-sms-receiver#readme"
+}
